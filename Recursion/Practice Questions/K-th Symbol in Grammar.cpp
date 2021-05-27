@@ -1,4 +1,4 @@
-//non recursive approach
+//leetcode problem #779. K-th Symbol in Grammar
 
 #include<bits/stdc++.h>
 using namespace std;
